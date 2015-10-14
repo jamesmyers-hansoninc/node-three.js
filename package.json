@@ -15,7 +15,7 @@
   ],
   "dependencies": {
     "canvas": "*",
-    "jsdom": "*"
+    "jsdom": "< 4.0.0"
   },
   "author": "Seiya Konno <nulltask@gmail.com> (http://null.ly)",
   "contributors": [
